@@ -34,6 +34,57 @@ Each folder contains a `SKILL.md` with the recipe goal, required connectors, str
 
 ---
 
+## Copy-paste install messages
+
+Send one of these messages to your agent to install a specific skill.
+
+### Email Reply Drafter
+
+```text
+Install this ILMU Claw skill from GitHub:
+https://github.com/hongleapo/ilmuclaw-recipes/tree/main/email-reply-drafter
+
+Use it as an OpenClaw-compatible skill for drafting replies to specific email threads. After installing, tell me what connector access it needs before running it.
+```
+
+### Inbox Digest + Action Items
+
+```text
+Install this ILMU Claw skill from GitHub:
+https://github.com/hongleapo/ilmuclaw-recipes/tree/main/inbox-digest
+
+Use it as an OpenClaw-compatible skill for summarising unread email, extracting action items, and drafting reply suggestions. After installing, tell me what connector access it needs before running it.
+```
+
+### Personalised Outreach + Follow-up Engine
+
+```text
+Install this ILMU Claw skill from GitHub:
+https://github.com/hongleapo/ilmuclaw-recipes/tree/main/personalised-outreach
+
+Use it as an OpenClaw-compatible skill for personalised outreach drafts, A/B copy variants, campaign tracking, and follow-up monitoring. After installing, tell me what connector access it needs before running it.
+```
+
+### Financial Pricing Report
+
+```text
+Install this ILMU Claw skill from GitHub:
+https://github.com/hongleapo/ilmuclaw-recipes/tree/main/financial-pricing-report
+
+Use it as an OpenClaw-compatible skill for current price checks, threshold alerts, and short market movement summaries. After installing, tell me what connector access it needs before running it.
+```
+
+### Marketing Assistant
+
+```text
+Install this ILMU Claw skill from GitHub:
+https://github.com/hongleapo/ilmuclaw-recipes/tree/main/marketing-assistant
+
+Use it as an OpenClaw-compatible skill for generating social posts, email newsletter drafts, and one-page campaign briefs. After installing, tell me what connector access it needs before running it.
+```
+
+---
+
 ## Quick-start: recommended first builds
 
 1. **Inbox Digest** — highest value, lowest risk. Set it to run daily at 8am. Pairs immediately with Email Reply Drafter for reply drafting.
