@@ -1,0 +1,19 @@
+.DS_Store
+.omx/
+
+# Local environment and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+
+# Logs and generated runtime state
+*.log
+logs/
+tmp/
+temp/
+
+# Editor and OS noise
+.idea/
+.vscode/
