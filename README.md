@@ -43,8 +43,6 @@ Send one of these messages to your agent to install a specific skill.
 ```text
 Install this ILMU Claw skill from GitHub:
 https://github.com/hongleapo/ilmuclaw-recipes/tree/main/email-reply-drafter
-
-Use it as an OpenClaw-compatible skill for drafting replies to specific email threads. After installing, tell me what connector access it needs before running it.
 ```
 
 ### Inbox Digest + Action Items
@@ -52,8 +50,6 @@ Use it as an OpenClaw-compatible skill for drafting replies to specific email th
 ```text
 Install this ILMU Claw skill from GitHub:
 https://github.com/hongleapo/ilmuclaw-recipes/tree/main/inbox-digest
-
-Use it as an OpenClaw-compatible skill for summarising unread email, extracting action items, and drafting reply suggestions. After installing, tell me what connector access it needs before running it.
 ```
 
 ### Personalised Outreach + Follow-up Engine
@@ -61,8 +57,6 @@ Use it as an OpenClaw-compatible skill for summarising unread email, extracting 
 ```text
 Install this ILMU Claw skill from GitHub:
 https://github.com/hongleapo/ilmuclaw-recipes/tree/main/personalised-outreach
-
-Use it as an OpenClaw-compatible skill for personalised outreach drafts, A/B copy variants, campaign tracking, and follow-up monitoring. After installing, tell me what connector access it needs before running it.
 ```
 
 ### Financial Pricing Report
@@ -70,8 +64,6 @@ Use it as an OpenClaw-compatible skill for personalised outreach drafts, A/B cop
 ```text
 Install this ILMU Claw skill from GitHub:
 https://github.com/hongleapo/ilmuclaw-recipes/tree/main/financial-pricing-report
-
-Use it as an OpenClaw-compatible skill for current price checks, threshold alerts, and short market movement summaries. After installing, tell me what connector access it needs before running it.
 ```
 
 ### Marketing Assistant
@@ -79,8 +71,6 @@ Use it as an OpenClaw-compatible skill for current price checks, threshold alert
 ```text
 Install this ILMU Claw skill from GitHub:
 https://github.com/hongleapo/ilmuclaw-recipes/tree/main/marketing-assistant
-
-Use it as an OpenClaw-compatible skill for generating social posts, email newsletter drafts, and one-page campaign briefs. After installing, tell me what connector access it needs before running it.
 ```
 
 ---
